@@ -1,5 +1,5 @@
 1# Versiones disponibles
-# forge, mohist, farge desde el menú de gesti11onar
+# forge, mohist, farge desde el menú de gestionar
 # Puedes instalar paper después de instalar vanilla desde el menú de gestionar
 # Puedes instalar purpur después de instalar fabric desde el menú de gestionar
 
